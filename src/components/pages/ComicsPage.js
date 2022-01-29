@@ -8,6 +8,6 @@ const ComicsPage = () => {
             <ComicsList/>
         </>
     )
-};
+}
 
 export default ComicsPage;
